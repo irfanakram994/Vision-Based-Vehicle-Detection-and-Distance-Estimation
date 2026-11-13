@@ -12,7 +12,13 @@ Detecting vehicles from aerial footage presents unique challenges because vehicl
 This project uses a pretrained aerial vehicle detection model to identify vehicles from overhead video footage and estimate their approximate distance using bounding-box dimensions and camera calibration.
 
 The implementation runs in Google Colab and processes recorded video frame by frame.
+
+
 <img width="323" height="581" alt="download (1)" src="https://github.com/user-attachments/assets/ca976f35-8518-443f-85c6-862352ef03f6" />
+
+
+
+
 <img width="996" height="470" alt="download (3)" src="https://github.com/user-attachments/assets/3bf94d4d-0030-4ec9-aa66-5561103ab2df" />
 
 
